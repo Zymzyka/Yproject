@@ -83,7 +83,7 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 
 
 
-                                                              Общий вывод о проделанной работе
+## Общий вывод о проделанной работе
 
 Провелил исследование, увидели развитие игровой индустрии с 1980 по 2016 год. К 2016 год индустрия начала терять темп. Я бы назвал это коррекцией рынка. Узнали что к 2017 году останется всего 2 популярные платформы Playstation 4 и Xbox One, которые смогут показать рост показателей прибыли и количество выходящих игр на них. Будем ждать новых игроков в 2017 году на рынке. Построили портртер Пользователей NA. EU и JP - как и следовала ожидать рынок японии и вкусы японских геймеров уникальные в отличии от NA и EU.
 
@@ -94,3 +94,16 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 По поводу нашего магазина. Мы можем закупать игры на Wiiu и 3ds. PSV - к сожалению сдулась уже. Закуп игр на 3ds можно ориетировать больше на японский рынок. Мы увидели тотальную доминацию там. Рынок европы популярность Playstation 4, рынок Сша Xbox One. - Жанровые предпочтения у рынков похожи. Формировать список игр для японии надо внимательно с учетом их жанровых пристрастий.
 
 Нужно внимательно следить за релизами на Playstation 4 - самая популярная плафторма. несколько драйверов в 2017 и последущие годы. могу нас озолотить! Даже на рынке Сша! 
+
+
+
+
+# Применяемый стек технологий
+
+<div align="Left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz36-h1Wbdor8yz_6grnrd6AMDLCnaQgKw3seGC2bNg&s" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" width="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/179px-NumPy_logo_2020.svg.png" width="120" />
+  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="150" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Y4OT-DoX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xm36iqima49zxbqsr8ma.jpg" width="70" />
+</div>
