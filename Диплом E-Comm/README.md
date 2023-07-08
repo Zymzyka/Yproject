@@ -6,8 +6,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/179px-NumPy_logo_2020.svg.png" width="100"/>
  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="100"/>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Y4OT-DoX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xm36iqima49zxbqsr8ma.jpg" width="100"/>
-
-
 </div>
 
 # Презентация к проекту и Дашборд
